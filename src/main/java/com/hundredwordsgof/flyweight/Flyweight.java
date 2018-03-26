@@ -6,6 +6,10 @@ package com.hundredwordsgof.flyweight;
  * state.
  *
  */
+ 
+ //Zach Sotak
+ 
+ 
 public interface Flyweight {
 
   void operation(Object extrinsicState);
