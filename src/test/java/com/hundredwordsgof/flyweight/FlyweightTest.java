@@ -68,7 +68,7 @@ public class FlyweightTest {
   }
   
     @Test
-  public void testFlyweight() {
+  public void failTestFlyweight() {
 
     Flyweight flyweight1 = FlyweightFactory.getFlyweight("key1", "value1");
     Flyweight flyweight2 = FlyweightFactory.getFlyweight("key2", "value2");
