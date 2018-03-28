@@ -6,8 +6,6 @@ package com.hundredwordsgof.flyweight;
  * state.
  *
  */
- 
- // It's me Jon P
 
 public interface Flyweight {
 
