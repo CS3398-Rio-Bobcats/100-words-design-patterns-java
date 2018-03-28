@@ -7,7 +7,6 @@ package com.hundredwordsgof.flyweight;
  *
  */
 
-// Arys comment
 public interface Flyweight {
 
   void operation(Object extrinsicState);
